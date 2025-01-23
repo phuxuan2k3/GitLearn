@@ -1,7 +1,2 @@
 this is the first line of code.
 
-f1 line.
-
-f2 line.
-
-main code
